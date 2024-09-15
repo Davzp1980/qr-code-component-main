@@ -59,11 +59,6 @@ body {
   color: gray;
 }
 
-.attribution {
-  max-width: 300px;
-  margin: 0 auto;
-}
-
 @media screen and (max-width: 768px) {
   .container {
     width: 375px;
